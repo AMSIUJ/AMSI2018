@@ -1,27 +1,26 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class PauseController : MonoBehaviour
 {
 
-
 	public Button pauseButton;
 	public bool isPaused = false;
 	public GameObject pausePanel;
 
-	private CanvasGroup pausePanelCG;
+	CanvasGroup pausePanelCG;
 	// Use this for initialization
 
 	void Awake()
 	{
 		pausePanelCG = pausePanel.GetComponent<CanvasGroup>();
+		
+		Debug.Log("Awake pause");
 	}
-
 
 	public void pauseGame()
 	{
+		Debug.Log("pause is preset");
 		if (isPaused == false && pausePanelCG != null)
 		{
 			Debug.Log("pause");
@@ -35,11 +34,13 @@ public class PauseController : MonoBehaviour
 		}
 	}
 	
-	public void reasumeGame()
+	public void resumeGame()
 	{
+		Debug.Log("resume is preset");
+		
 		if (isPaused == true && pausePanelCG != null)
 		{
-			Debug.Log("unpause");
+			Debug.Log("resume");
 			Time.timeScale = 1;
 			isPaused = false;
 
