@@ -1,7 +1,88 @@
 fileFormatVersion: 2
 guid: dc3abcbbe13676f44ab1eb4dbdcc4b63
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: JumperEnvironment_0
+    21300002: JumperEnvironment_1
+    21300004: JumperEnvironment_2
+    21300006: JumperEnvironment_3
+    21300008: JumperEnvironment_4
+    21300010: JumperEnvironment_5
+    21300012: JumperEnvironment_6
+    21300014: JumperEnvironment_7
+    21300016: JumperEnvironment_8
+    21300018: JumperEnvironment_9
+    21300020: JumperEnvironment_10
+    21300022: JumperEnvironment_11
+    21300024: JumperEnvironment_12
+    21300026: JumperEnvironment_13
+    21300028: JumperEnvironment_14
+    21300030: JumperEnvironment_15
+    21300032: JumperEnvironment_16
+    21300034: JumperEnvironment_17
+    21300036: JumperEnvironment_18
+    21300038: JumperEnvironment_19
+    21300040: JumperEnvironment_20
+    21300042: JumperEnvironment_21
+    21300044: JumperEnvironment_22
+    21300046: JumperEnvironment_23
+    21300048: JumperEnvironment_24
+    21300050: JumperEnvironment_25
+    21300052: JumperEnvironment_26
+    21300054: JumperEnvironment_27
+    21300056: JumperEnvironment_28
+    21300058: JumperEnvironment_29
+    21300060: JumperEnvironment_30
+    21300062: JumperEnvironment_31
+    21300064: JumperEnvironment_32
+    21300066: JumperEnvironment_33
+    21300068: JumperEnvironment_34
+    21300070: JumperEnvironment_35
+    21300072: JumperEnvironment_36
+    21300074: JumperEnvironment_37
+    21300076: JumperEnvironment_38
+    21300078: JumperEnvironment_39
+    21300080: JumperEnvironment_40
+    21300082: JumperEnvironment_41
+    21300084: JumperEnvironment_42
+    21300086: JumperEnvironment_43
+    21300088: JumperEnvironment_44
+    21300090: JumperEnvironment_45
+    21300092: JumperEnvironment_46
+    21300094: JumperEnvironment_47
+    21300096: JumperEnvironment_48
+    21300098: JumperEnvironment_49
+    21300100: JumperEnvironment_50
+    21300102: JumperEnvironment_51
+    21300104: JumperEnvironment_52
+    21300106: JumperEnvironment_53
+    21300108: JumperEnvironment_54
+    21300110: JumperEnvironment_55
+    21300112: JumperEnvironment_56
+    21300114: JumperEnvironment_57
+    21300116: JumperEnvironment_58
+    21300118: JumperEnvironment_59
+    21300120: JumperEnvironment_60
+    21300122: JumperEnvironment_61
+    21300124: JumperEnvironment_62
+    21300126: JumperEnvironment_63
+    21300128: JumperEnvironment_64
+    21300130: JumperEnvironment_65
+    21300132: JumperEnvironment_66
+    21300134: JumperEnvironment_67
+    21300136: JumperEnvironment_68
+    21300138: JumperEnvironment_69
+    21300140: JumperEnvironment_70
+    21300142: JumperEnvironment_71
+    21300144: JumperEnvironment_72
+    21300146: JumperEnvironment_73
+    21300148: JumperEnvironment_74
+    21300150: JumperEnvironment_75
+    21300152: JumperEnvironment_76
+    21300154: JumperEnvironment_77
+    21300156: JumperEnvironment_78
+    21300158: JumperEnvironment_79
+    21300160: JumperEnvironment_80
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +121,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +150,1651 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: JumperEnvironment_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91691e3b351e90418eb512411e5c6f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 389
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b925d8d179f56c459b7c3c4bc316a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 386
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e882fe78a0d4a48980bb70174f7e5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 389
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac36716668a965a47aec592cebade5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_4
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 394
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed2b1e5859206b44a51914bb6764845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_5
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 394
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c92e17cff273e54c82d41eb7e38ad03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 394
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cd3d643c744ba4eac459d2460bf008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_7
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 413
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f566494fbcb7aec4fa16e78bad8518a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 416
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22facb870b8ca3a4cb1504e8535f44ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_9
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 339
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373f3a0decd146b419cfccc9b2809580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 334
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a7d6069dac92544ab556300fa41053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 334
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523848e43981ef14498fb16f0f0e1b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 334
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47348390114384585e19360ccc9d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_13
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 372
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837dfcfe6c1dd04f83f849bdfeb342c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 375
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09c44c506cad84991cc975009de1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b3c9e3e7ce2342b60abd9f5fd0ae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 319
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db0db2fd3e2884fac9a8dbfc5a6629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 316
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4239ea7875650d4ca843feea3b2687d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 319
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8528657d841dfea4a9c2a75bc2779a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_19
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 335
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b37f6f5223654baadd42c69fcf1f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_20
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 335
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc65760ac0ab3c4e8860dd919e69583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e784791abea134bac5abaacd933e7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 249
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f35480d8a3beae43b27137b7feb8540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 246
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe431525eac0f045b7e6fe61abcef9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_24
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 249
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8942bb6d2e0d6846b981d1eec9a860a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_25
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 274
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a2dbd68b839a4b9efe7c438c66fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_26
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 274
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd88f09b18a4445b34acbb53a104ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_27
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 274
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9dceecdc402ec489d8d2657f4bca6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_28
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 294
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6af33a2b3fab4a970b8e2e3e2ed25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_29
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 294
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e7cefce7461a84ab38bdb49c64d9ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_30
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 292
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa9d29140aad94f86f1f9dfbefa973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 283
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e873b74d0ff857e478ed8c95a70fbddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_32
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 283
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d2c8726111034781a5d51dd50398f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_33
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 219
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c885f20944ef9394c8fb3fbfcb44ce32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb7acb6f1e8ad48a6e5a95c14b7fcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 179
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400d3618665bb748812d5cb1e7a0ec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 176
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e64be4538219d4da198a5a73dbb7e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 179
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa723f498dfa41e4d99a4744d079fdbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_38
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 214
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9154325b1649c84c861d9b9dacc6ae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_39
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 214
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461714027e6058547b055809bccfddaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 214
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a0117ca164dc34d85d06d9d6e1943a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_41
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 219
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c722a06762ad424497a6f92ae1551d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_42
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 219
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7527376f8cdb8334c951f5aba86fe488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_43
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfd4dbecc7afc4fb494f58976c2294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_44
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 219
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbad9fe2113b8f48add630713d23bbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_45
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7776a228cd33d4146b7adfeea17070bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_46
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 219
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f188a7044e053394bbf50990e8a1cd73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_47
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 117
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7c1630da8e37408aeb694270dfb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_48
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 158
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fc2aec7a7174743b061d247ec3abf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_49
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 160
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c146e60b35cb418390c94c108ce64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_50
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 160
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bf62c70a548f940aaf030eead221d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_51
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 160
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a598bf5c41154d9f3efb6bc1c173a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_52
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 177
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370671ec48ee75f4b967f848541e47e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe558a89a3682e842b51b98b773ea222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 109
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2219f6727fe9a4b4e98cc2247517892e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 106
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac3f84bb539a1f4a95c5a11dba34de0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 109
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0885c99c392244fa00011342f05d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_57
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 108
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50384ad3466cf1548ac61f06a2a18c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_58
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 109
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e8254781bd834c971087252a2d8b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_59
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 109
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1936a12da485f64183ed179de8e5428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_60
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 123
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa18bee0005491419ee00ee791443d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_61
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 127
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f003c2d4c76d4a9efb6ab7e7966c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_62
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 125
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2a21cc1cab85045bccecf2543c82b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_63
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 125
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973e477bd43a8654ead43987966b574f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_64
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 125
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba59beae7f19849a1a631fad2d9204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad88c1146d17104382b98b2ab459ddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f076b4afa0c664fbfd6180927f80a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 36
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b31e4b4e67fcb4f9c914077c2609cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_68
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 39
+        width: 191
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36b8d7c63318f44a447cb21015f8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_69
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 53
+        width: 115
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ec4ac22777444d9665b9bd403315a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_70
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 69
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fca35283b42874cbb22c72790f31b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_71
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 53
+        width: 115
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84126f2d0f67f534dbf6fd2be1a2bff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_72
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 69
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e141b2459f604baa7d44b63852015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_73
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 50
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f195c6c1ffcd4ca8e725a7a73bfeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_74
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b016ebada2cb0444a705b9bae9806e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_75
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c4cb9599675d94381673f4edbb6fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_76
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863123ed7bc5b742845144ae8eff4f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_77
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6caa1e773e82f941b5b05418f913174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_78
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2647ae212cfb84ba10f73b0fc46e2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_79
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419fdc62d9d51ff4b8c76834773e8a21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperEnvironment_80
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a217aaf15dd14e48bfd92ff6295e589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
