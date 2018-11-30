@@ -10,5 +10,6 @@ public class GoToUrl : MonoBehaviour
     public void openTheLink()
     {
         Application.OpenURL((theURL));
+        
     }
 }
