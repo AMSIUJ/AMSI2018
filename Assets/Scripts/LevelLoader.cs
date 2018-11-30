@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class LevelLoader : MonoBehaviour
 {
 
-    public string sceneToLoad = "StartScreen";
+    public string sceneToLoad = "StartScene";
 
 
     public void loadTheLevel()
