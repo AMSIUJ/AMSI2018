@@ -11,6 +11,8 @@
           <e p="BunnyController.cs" t="Include" />
           <e p="BunnyMovement.cs" t="Include" />
           <e p="CloudController.cs" t="Include" />
+          <e p="GoToUrl.cs" t="Include" />
+          <e p="LevelLoader.cs" t="Include" />
           <e p="PauseController.cs" t="Include" />
           <e p="SelectUpAndDown.cs" t="Include" />
         </e>
